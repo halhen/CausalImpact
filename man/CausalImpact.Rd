@@ -147,13 +147,13 @@
       Point-wise posterior causal effect. \cr
       \code{point.effect.lower} \tab
       Lower limit of the posterior interval (as above). \cr
-      \code{point.effect.lower} \tab Upper limit of the
+      \code{point.effect.upper} \tab Upper limit of the
       posterior interval (as above). \cr
       \code{cum.effect} \tab
       Posterior cumulative effect. \cr
       \code{cum.effect.lower} \tab
       Lower limit of the posterior interval (as above). \cr
-      \code{cum.effect.lower} \tab
+      \code{cum.effect.upper} \tab
       Upper limit of the posterior interval (as above). \cr
     }
 }
